@@ -1,6 +1,6 @@
 👋 Hi, I’m Josh Nordan
 
-🎯 Seeking full-time software roles to leverage my skills and passion.
+🎯 Seeking full-time software roles.
 
 🌱 Currently honing my expertise in Unity.
 
